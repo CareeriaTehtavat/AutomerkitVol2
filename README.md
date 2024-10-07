@@ -12,7 +12,7 @@
 - Esimerkkituloste:
 
 ```
-Lisää listalle viisi   automerkkiä
+Lisää listalle viisi automerkkiä
 BMW
 Porshe
 Toyota
